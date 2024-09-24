@@ -34,12 +34,12 @@ const questions = [
   {
     type: 'input',
     name: 'usage',
-    message: 'Review professional readme doc and put another question here?'
+    message: 'Describe when your project will be used.'
   },
   {
     type: 'input',
     name: 'contributing',
-    message: 'Provide contribution guidelines:'
+    message: 'List the collaborators:'
   },
   {
     type: 'input',
