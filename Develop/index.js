@@ -120,7 +120,7 @@ function init() {
       const readmeContent = generateReadMe(answers);
 
       // Write README file
-      fs.writeFile('README2.md', readmeContent, (err) => {
+      fs.writeFile('README.md', readmeContent, (err) => {
         if (err) {
           console.error('Error writing file:', err);
         } else {
