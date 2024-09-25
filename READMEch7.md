@@ -8,6 +8,7 @@ As a developer, I want to automate the creation of a high-quality README file fo
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Links](#links)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -23,8 +24,8 @@ I want to be prompted for key information about my project (like title, descript
 So that a well-structured README.md file is generated automatically with all the necessary sections.
 
 ## Links
-Follow this link to the repository: https://github.com/
-Follow this link to the screencapture file: 
+Follow this link to the repository: https://github.com/Magsmags600/JenkinsChallenge7
+Follow this link to the screencapture file: https://drive.google.com/file/d/1C0wAjPH7LrrhE6x9HvOCb8iO_ctC0Mk_/view
 
 ## Contributing
 Maggie Jenkins
